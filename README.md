@@ -1,5 +1,4 @@
-git# Agro-Science
-
+## Agro-Science
 Agro Science website is an agriculture based web-portal to help farmer.
 
 ## Getting started
